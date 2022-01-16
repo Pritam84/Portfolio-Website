@@ -107,6 +107,36 @@ body{
     border: 4px black;
 }
 
+.footer{
+    background-color: #3482EB;
+    color: white;
+    text-shadow: 2px 2px 2px black, 0 0 25px rgb(215, 215, 228), 0 0 5px rgb(210, 210, 243);
+    font-size: 20px;
+}
+
+.icons{
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+    background-color: white;
+    color: #3482EB;
+    font-size: 30px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+}
+
+.icons:hover{
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+    background-color: black;
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+}
 
 
 
